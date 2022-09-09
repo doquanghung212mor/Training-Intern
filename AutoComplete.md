@@ -18,4 +18,4 @@ Link Design: https://www.figma.com/file/kzDfkvmAMDCXG1U3SW7KoG/AutoComplete?node
 - [ ] Cải tiến để có thể chọn được nhiều opton ( Có dùng slot để giải quyết vấn đề )
 - [ ] Thêm chức năng search (Gọi API khi nhập text) để có thể lọc list thành phố
 - [ ] Viết unit test cho component (Chức năng thêm - Sẽ thực hiện vào tuần cuối)
-- [ ] Đóng gói được component để có thể sử dụng cho App (hoặc có thể build thành thư viện và đưa lên NPM  -  Option)
+- [ ] Đóng gói được component để có thể sử dụng cho App (hoặc có thể build thành thư viện và đưa lên NPM  -  Optional)
